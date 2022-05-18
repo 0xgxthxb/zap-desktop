@@ -323,7 +323,7 @@
     "@ln-zap/bolt11": "1.2.8-beta.3",
     "@rebass/forms": "4.0.6",
     "@styled-system/theme-get": "5.1.2",
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "bech32": "1.1.4",
     "bignumber.js": "9.0.1",
     "bip21": "2.0.3",
