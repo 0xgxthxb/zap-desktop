@@ -338,7 +338,7 @@
     "country-data-lookup": "0.0.33",
     "debug": "4.3.2",
     "debug-logger": "0.4.1",
-    "dexie": "3.0.2",
+    "dexie": "3.2.2",
     "downshift": "5.4.7",
     "dropbox": "4.0.30",
     "electron-is-dev": "1.2.0",
